@@ -1,0 +1,4 @@
+f6x8m.pbi: D:\Projects\ for\ STM32\Laptop_Stand\display\fonts\f6x8m.c \
+  D:\Projects\ for\ STM32\Laptop_Stand\display\fonts/font.h \
+  D:\Projects\ for\ STM32\Laptop_Stand\EWARM/../Inc\types.h \
+  D:\Projects\ for\ STM32\Laptop_Stand\display\fonts/f6x8m.h
